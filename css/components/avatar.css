@@ -1,0 +1,13 @@
+.avatar{
+	width: 100px;
+	height: 200px;
+	
+}
+.avatar-circle{
+	width: 60px;
+	height:60px;
+	border-radius: 50%;
+	
+}
+
+

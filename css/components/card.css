@@ -1,0 +1,38 @@
+.cardwrap{
+	justify-content:space-around;
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	box-shadow: 10px -15px 8px rgba(0,0,0,0.2);
+    flex-grow:1;
+	border: 1px solid #AD9D9D;
+	display: flex;
+}
+.card {
+	width: 20%;
+	height: 300px;
+	display: block;
+	background-color:#E8DED2;
+	box-shadow: 10px -10px 8px rgba(0,0,0,0.3);
+}
+
+.card img{
+	width: 80px;
+	display: block;
+	margin: 0 auto;
+
+}
+.card p{
+	flex-grow: 1;
+	padding-left: 60px;
+	font-size: 22px;
+	margin-top: 100px;
+}
+.card .btn-blue {
+	margin-top: 60px;
+	display: block;
+}
+
+.card a:hover{
+ 	color:#A3D8F4;
+ 	font-size: 25px

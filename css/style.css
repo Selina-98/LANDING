@@ -1,0 +1,49 @@
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+h1{
+     font-family:'Big Shoulders Inline Text', cursive;
+	 color: #FFFDF9;
+	 font-size:70px;
+	 text-align: center;
+}
+
+h2{  
+	
+	 font-family:'Underdog', cursive;
+	 font-weight:35px;
+	 text-align: none;
+	 background: #E0ECE4;
+}
+
+
+a {
+	 font-family: 'Indie Flower', cursive;
+	 text-align: center;
+	 text-decoration: none;
+}
+
+
+div{
+	 background:none;
+
+
+}
+body{
+	 margin:0px;
+	 text-align: center;
+	 font-size: 18px;
+
+}
+
+.title{
+	 text-align: center;
+}
+.footer{
+	 text-align:center;
+	 background: pink;
+}
+
